@@ -17,7 +17,7 @@ while [[ "$#" -gt 0 ]]; do
 			shift
 			;;
         *) 
-            echo "Invalid argument: $1"
+            echo "Invalid argument: $2"
             exit 1
             ;;
     esac
