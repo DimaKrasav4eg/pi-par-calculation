@@ -7,7 +7,7 @@ The concept involves simulating random points (x, y) on a 2-D plane within a squ
 <img src="https://github.com/DimaKrasav4eg/pi-par-calculation/blob/master/images/graph.png" width="400">
 
 We know that $$\frac{S_circle}{S_square}=\frac{{\pi}r^2}{(2r)^2}=\frac{\pi}{4}$$
-Then we get $$\pi=4\frac{points\_inside\_circle}{total\_points}$$
+Then we get $$\pi=4\frac{points-inside-circle}{total-points}$$
 
 ## How to start
 ```sh
