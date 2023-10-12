@@ -9,7 +9,7 @@ while [[ "$#" -gt 0 ]]; do
             shift
             ;;
         -p|--points)
-			if [[ -n "$1" ]]; then
+			if [[ -n "$2" ]]; then
                 echo "Error: number of points not specified!"
                 exit 1
             fi
